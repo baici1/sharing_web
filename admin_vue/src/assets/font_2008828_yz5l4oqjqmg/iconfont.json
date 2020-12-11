@@ -1,0 +1,58 @@
+{
+  "id": "2008828",
+  "name": "vue",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "14992",
+      "name": "购物袋",
+      "font_class": "gouwudai",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "722464",
+      "name": "文本",
+      "font_class": "wenben",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "2781904",
+      "name": "人",
+      "font_class": "ren1",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "5238498",
+      "name": "盒子",
+      "font_class": "heziguanligenduoshangpinkeji",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "7459416",
+      "name": "数据",
+      "font_class": "shuju",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "2470740",
+      "name": "锁",
+      "font_class": "suo",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "8730976",
+      "name": "人",
+      "font_class": "ren",
+      "unicode": "e654",
+      "unicode_decimal": 58964
+    }
+  ]
+}
