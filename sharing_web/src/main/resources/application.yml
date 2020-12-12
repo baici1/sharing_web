@@ -3,8 +3,8 @@ spring:
   #配置发送信息
   mail:
     host: smtp.qq.com
-    username: 1442068370@qq.com
-    password: fwxdqtrlhgugjicc
+    username: # **************//填自己的邮箱
+    password: # **************//密码
     port: 25
     default-encoding: UTF-8
     protocol: smtp
